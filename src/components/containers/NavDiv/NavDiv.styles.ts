@@ -3,6 +3,7 @@ import {style} from 'typestyle';
 const styles = {
     left: style({
         width: '600px',
+        paddingLeft: '60px',
         gap: '10px',
 
         display: 'flex',
