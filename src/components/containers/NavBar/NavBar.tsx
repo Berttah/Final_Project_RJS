@@ -4,7 +4,6 @@ import styles from './NavBar.styles'
 import NavDiv from '../NavDiv/NavDiv'
 import NavDivAreas from "../NavDivAreas/NavDivAreas";
 import UserIcon from "../../icons/UserIcon/UserIcon";
-import CartIcon from "../../icons/CartIcon";
 
 import Text20P from "../../text/left/20P/Text20P";
 import NavButton from "../../buttons/NavButton/NavButton";
@@ -18,10 +17,10 @@ const NavBar = (props: {}) => {
                 <img className= {styles.logo} src="src\assets\Logo.png" alt="" />
             </NavDiv>
             <div style={{display:'flex'}}>
-                <NavButton text="Spring"/>
-                <NavButton text="Summer"/>
-                <NavButton text="Autum"/>
-                <NavButton text="Winter"/>
+                <NavButton text="Spring" color="#97C77A" />
+                <NavButton text="Summer" color="#C77AB6" />
+                <NavButton text="Autumn" color="#C7A47A" />
+                <NavButton text="Winter" color="#7AC2C7" />
             </div>
             <NavDiv style="rigth">
                 <NavDivAreas style="msgArea">

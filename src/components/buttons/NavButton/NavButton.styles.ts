@@ -12,7 +12,8 @@ const styles = {
         $nest:{
             '&:hover':{
                 cursor: 'pointer',
-                backgroundColor: '#DAD9D7'
+                // backgroundColor: '#DAD9D7',
+                // background: 'linear-gradient(0deg, #E8D1B5 0%, rgba(248, 255, 244, 0) 10%)'
             }
         }
     })
