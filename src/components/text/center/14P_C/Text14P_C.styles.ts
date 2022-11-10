@@ -6,7 +6,7 @@ const styles = {
     fontFamily: '',
     fontWeight: '500',
     lineHeight: '23px',
-    textAlign: 'center',
+    textAlign: 'justify',
     color: '#6C6C6C',
   }),
 };
