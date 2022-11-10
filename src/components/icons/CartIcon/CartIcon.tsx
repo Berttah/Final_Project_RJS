@@ -6,7 +6,8 @@ import { IconContext } from 'react-icons';
 
 
 const CartIcon = (props: {
-    style?: string;
+    style?: string,
+    function?: Function,
 }) => {
 
     return (
