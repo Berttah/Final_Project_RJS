@@ -441,7 +441,7 @@ export const inventory = [
         price: 79.99,
         highlighted: true,
         mostSold: true,
-        img: '../src/assets/Winter__/ParcaFauxFur.png',
+        img: '../src/assets/Winter_/ParcaFauxFur.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
