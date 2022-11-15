@@ -6,7 +6,7 @@ export const inventory = [
         price: 25.99,
         highlighted: true,
         mostSold: true,
-        img: '../src/assets/Spring/FloralCardigan.png',
+        img: '../src/assets/Spring_/FloralCardigan.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -17,7 +17,7 @@ export const inventory = [
         price: 39.99,
         highlighted: true,
         mostSold: false,
-        img: '../src/assets/Spring/ShirtJacket.png',
+        img: '../src/assets/Spring_/ShirtJacket.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -28,7 +28,7 @@ export const inventory = [
         price: 19.99,
         highlighted: true,
         mostSold: false,
-        img: '../src/assets/Spring/SlimJeans.png',
+        img: '../src/assets/Spring_/SlimJeans.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -39,7 +39,7 @@ export const inventory = [
         price: 25.99,
         highlighted: true,
         mostSold: false,
-        img: '../src/assets/Spring/LongSleeveTop.png',
+        img: '../src/assets/Spring_/LongSleeveTop.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -50,7 +50,7 @@ export const inventory = [
         price: 49.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Spring/HoodedShirtJacket.png',
+        img: '../src/assets/Spring_/HoodedShirtJacket.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -61,7 +61,7 @@ export const inventory = [
         price: 49.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Spring/BomberJacket.png',
+        img: '../src/assets/Spring_/BomberJacket.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -72,7 +72,7 @@ export const inventory = [
         price: 24.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Spring/BermudaShorts.png',
+        img: '../src/assets/Spring_/BermudaShorts.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -83,7 +83,7 @@ export const inventory = [
         price: 7.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Spring/DaringTShirt.png',
+        img: '../src/assets/Spring_/DaringTShirt.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -94,7 +94,7 @@ export const inventory = [
         price: 69.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Spring/RainJacket.png',
+        img: '../src/assets/Spring_/RainJacket.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -105,7 +105,7 @@ export const inventory = [
         price: 34.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Spring/CottonShirtJacket.png',
+        img: '../src/assets/Spring_/CottonShirtJacket.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -116,7 +116,7 @@ export const inventory = [
         price: 27.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Spring/DenimJacket.png',
+        img: '../src/assets/Spring_/DenimJacket.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -127,7 +127,7 @@ export const inventory = [
         price: 12.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Spring/OrganicCottonShirt.png',
+        img: '../src/assets/Spring_/OrganicCottonShirt.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -138,7 +138,7 @@ export const inventory = [
         price: 19.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Spring/RegularFitShirt.png',
+        img: '../src/assets/Spring_/RegularFitShirt.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -151,7 +151,7 @@ export const inventory = [
         price: 39.99,
         highlighted: true,
         mostSold: true,
-        img: '../src/assets/Summer/CrochetedWaistcoat.png',
+        img: '../src/assets/Summer_/CrochetedWaistcoat.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -162,7 +162,7 @@ export const inventory = [
         price: 22.99,
         highlighted: true,
         mostSold: false,
-        img: '../src/assets/Summer/OrganicCottonDress.png',
+        img: '../src/assets/Summer_/OrganicCottonDress.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -173,7 +173,7 @@ export const inventory = [
         price: 12.99,
         highlighted: true,
         mostSold: false,
-        img: '../src/assets/Summer/TShirtDress.png',
+        img: '../src/assets/Summer_/TShirtDress.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -184,7 +184,7 @@ export const inventory = [
         price: 29.99,
         highlighted: true,
         mostSold: false,
-        img: '../src/assets/Summer/MaternityBeltedDress.png',
+        img: '../src/assets/Summer_/MaternityBeltedDress.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -195,7 +195,7 @@ export const inventory = [
         price: 39.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Summer/CargoTrousers.png',
+        img: '../src/assets/Summer_/CargoTrousers.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -206,7 +206,7 @@ export const inventory = [
         price: 29.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Summer/ALineDress.png',
+        img: '../src/assets/Summer_/ALineDress.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -217,7 +217,7 @@ export const inventory = [
         price: 69.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Summer/FitnFlareDress.png',
+        img: '../src/assets/Summer_/FitnFlareDress.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -228,7 +228,7 @@ export const inventory = [
         price: 19.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Summer/ClothTrousers.png',
+        img: '../src/assets/Summer_/ClothTrousers.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -239,7 +239,7 @@ export const inventory = [
         price: 9.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Summer/CropTop.png',
+        img: '../src/assets/Summer_/CropTop.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -250,7 +250,7 @@ export const inventory = [
         price: 9.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Summer/ClockhouseHat.png',
+        img: '../src/assets/Summer_/ClockhouseHat.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -261,7 +261,7 @@ export const inventory = [
         price: 24.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Summer/CrochetedWaistcoat.png',
+        img: '../src/assets/Summer_/CrochetedWaistcoat.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -272,7 +272,7 @@ export const inventory = [
         price: 19.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Summer/LinenShirt.png',
+        img: '../src/assets/Summer_/LinenShirt.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -283,7 +283,7 @@ export const inventory = [
         price: 12.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Summer/PoloShirt.png',
+        img: '../src/assets/Summer_/PoloShirt.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -296,7 +296,7 @@ export const inventory = [
         price: 69.99,
         highlighted: true,
         mostSold: true,
-        img: '../src/assets/Autumn/TrenchCoat.png',
+        img: '../src/assets/Autumn_/TrenchCoat.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -307,7 +307,7 @@ export const inventory = [
         price: 25.99,
         highlighted: true,
         mostSold: false,
-        img: '../src/assets/Autumn/FlannelShirt.png',
+        img: '../src/assets/Autumn_/FlannelShirt.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -318,7 +318,7 @@ export const inventory = [
         price: 49.99,
         highlighted: true,
         mostSold: false,
-        img: '../src/assets/Autumn/StraightJeans.png',
+        img: '../src/assets/Autumn_/StraightJeans.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -329,7 +329,7 @@ export const inventory = [
         price: 79.99,
         highlighted: true,
         mostSold: false,
-        img: '../src/assets/Autumn/CashmereSlipover.png',
+        img: '../src/assets/Autumn_/CashmereSlipover.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -340,7 +340,7 @@ export const inventory = [
         price: 29.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Autumn/FleeceGilet.png',
+        img: '../src/assets/Autumn_/FleeceGilet.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -351,7 +351,7 @@ export const inventory = [
         price: 79.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Autumn/LongCoat.png',
+        img: '../src/assets/Autumn_/LongCoat.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -362,7 +362,7 @@ export const inventory = [
         price: 25.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Autumn/KentCollarShirt.png',
+        img: '../src/assets/Autumn_/KentCollarShirt.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -373,7 +373,7 @@ export const inventory = [
         price: 25.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Autumn/ZipThroughSweatshirt.png',
+        img: '../src/assets/Autumn_/ZipThroughSweatshirt.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -384,7 +384,7 @@ export const inventory = [
         price: 19.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Autumn/OrganicCottonJumper.png',
+        img: '../src/assets/Autumn_/OrganicCottonJumper.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -395,7 +395,7 @@ export const inventory = [
         price: 25.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Autumn/OrganicCottonHoodie.png',
+        img: '../src/assets/Autumn_/OrganicCottonHoodie.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -406,7 +406,7 @@ export const inventory = [
         price: 39.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Autumn/CorduroyTrousers.png',
+        img: '../src/assets/Autumn_/CorduroyTrousers.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -417,7 +417,7 @@ export const inventory = [
         price: 17.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Autumn/KnittedCardigan.png',
+        img: '../src/assets/Autumn_/KnittedCardigan.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -428,7 +428,7 @@ export const inventory = [
         price: 15.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Autumn/PoloTurtleNeck.png',
+        img: '../src/assets/Autumn_/PoloTurtleNeck.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -441,7 +441,7 @@ export const inventory = [
         price: 79.99,
         highlighted: true,
         mostSold: true,
-        img: '../src/assets/Winter/ParcaFauxFur.png',
+        img: '../src/assets/Winter__/ParcaFauxFur.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -452,7 +452,7 @@ export const inventory = [
         price: 29.99,
         highlighted: true,
         mostSold: false,
-        img: '../src/assets/Winter/WoolJumper.png',
+        img: '../src/assets/Winter_/WoolJumper.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -463,7 +463,7 @@ export const inventory = [
         price: 29.99,
         highlighted: true,
         mostSold: false,
-        img: '../src/assets/Winter/Fleecejacke.png',
+        img: '../src/assets/Winter_/Fleecejacke.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -474,7 +474,7 @@ export const inventory = [
         price: 7.99,
         highlighted: true,
         mostSold: false,
-        img: '../src/assets/Winter/FingerlessGloves.png',
+        img: '../src/assets/Winter_/FingerlessGloves.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -485,7 +485,7 @@ export const inventory = [
         price: 19.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Winter/FringedScarf.png',
+        img: '../src/assets/Winter_/FringedScarf.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -496,7 +496,7 @@ export const inventory = [
         price: 9.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Winter/KnittedHat.png',
+        img: '../src/assets/Winter_/KnittedHat.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -507,7 +507,7 @@ export const inventory = [
         price: 7.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Winter/WoolHat.png',
+        img: '../src/assets/Winter_/WoolHat.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -518,7 +518,7 @@ export const inventory = [
         price: 79.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Winter/QuiltedCoat.png',
+        img: '../src/assets/Winter_/QuiltedCoat.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -529,7 +529,7 @@ export const inventory = [
         price: 12.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Winter/QuiltedGloves.png',
+        img: '../src/assets/Winter_/QuiltedGloves.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -540,7 +540,7 @@ export const inventory = [
         price: 99.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Winter/PolarJacket.png',
+        img: '../src/assets/Winter_/PolarJacket.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -551,7 +551,7 @@ export const inventory = [
         price: 19.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Winter/XJumper.png',
+        img: '../src/assets/Winter_/XJumper.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -562,7 +562,7 @@ export const inventory = [
         price: 129.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Winter/MarkesJacket.png',
+        img: '../src/assets/Winter_/MarkesJacket.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },
@@ -573,7 +573,7 @@ export const inventory = [
         price: 99.99,
         highlighted: false,
         mostSold: false,
-        img: '../src/assets/Winter/SnowJacket.png',
+        img: '../src/assets/Winter_/SnowJacket.png',
         description: 'Lorem Ipsum...',
         sizeQty: { S: 2, M: 3, XL: 4 }
     },

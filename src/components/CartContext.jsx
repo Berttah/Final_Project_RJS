@@ -52,6 +52,15 @@ const Cart = () => {
 
 Pasaria a englobar con <CartContextProvider>
 
+
+
+
+
+
+
+
+
+
 //////////////////////////
 
 import { createContext, useEffect } from "react";
